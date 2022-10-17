@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **lurulu156/lurulu156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am Lucia. Nice to meet you.
+## I am Lucia. Nice to meet you.👋
 Hi, I'm a new beginner of web developer. Hopefully I could enrich my github one day lol.
