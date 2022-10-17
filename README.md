@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am Lucia. Nice to meet you.👋
-Hi, I'm a new beginner of web developer. Hopefully I could enrich my github one day lol.
+##Hi, I am Lucia. Nice to meet you.👋
+I'm a new beginner of web developer. Hopefully I could enrich my github one day lol.
