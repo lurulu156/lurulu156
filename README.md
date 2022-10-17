@@ -25,7 +25,7 @@ I'm a new beginner of web developer. Hopefully I could enrich my github one day 
 - JavaScript
 
 <p>
-  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=lurulu156&show_icons=true&theme=nightowl&hide=contribs,prs" />
+<!--   <img height="130px" src="https://github-readme-stats.vercel.app/api?username=lurulu156&show_icons=true&theme=nightowl&hide=contribs,prs" /> -->
   <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lurulu156&layout=compact&theme=nightowl" />
 </p>
 
