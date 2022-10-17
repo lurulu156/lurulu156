@@ -20,7 +20,7 @@ I'm a new beginner of web developer. Hopefully I could enrich my github one day 
 
 ### 📚 Langues and Frameworks
 - HTML5
-- CSS3, SASS
+- CSS
 - Bootstrap
 - JavaScript
 
