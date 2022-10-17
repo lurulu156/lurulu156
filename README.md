@@ -15,5 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Hi, I am Lucia. Nice to meet you.👋
+## Hi, I am Lucia. Nice to meet you.👋
 I'm a new beginner of web developer. Hopefully I could enrich my github one day lol.
+
+### 📚 Langues and Frameworks
+- HTML5
+- CSS3, SASS
+- Bootstrap
+- JavaScript
+
+
