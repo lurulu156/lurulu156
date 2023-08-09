@@ -23,6 +23,9 @@ I'm a new beginner of web developer. Hopefully I could enrich my github one day 
 - CSS
 - Bootstrap
 - JavaScript
+- C#
+- ASP.NET
+- SQL
 
 <p>
 <!--   <img height="130px" src="https://github-readme-stats.vercel.app/api?username=lurulu156&show_icons=true&theme=nightowl&hide=contribs,prs" /> -->
