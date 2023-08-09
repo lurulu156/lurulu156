@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 I'm a new beginner of web developer. Hopefully I could enrich my github one day lol.
 
 ### 📚 Langues and Frameworks
-- HTML5
-- CSS
-- Bootstrap
+- HTML/CSS
 - JavaScript
+- TypeScript
 - C#
 - ASP.NET
 - SQL
